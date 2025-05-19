@@ -20,3 +20,23 @@ Now I moved on to CAD, where I used Onshape to make a master-sketch, a full cons
 
 
 **Time Spent this Session: 4 hours**
+--------------------------------
+May 19th: Continued Design and changes
+I've finished most of the parts for the pod and will start prototyping the wheel soon!
+I've decided to change some aspects, mainly the gear ratio and gears. Instead of 9:1, im using **8:1** as it allows the robot to drive faster and use only aliexpress and goBILDA instead of neededing custom gears, ensuring accuracy and saving money. Below are images of the new simulation and aliexpress + goBILDA gears (goBILDA gears will be cut down to fit)
+![image](https://github.com/user-attachments/assets/fff9da39-adc7-45e3-be87-5349de8db86a)
+![image](https://github.com/user-attachments/assets/ca195e9b-de7a-47ff-81e3-fa0fd8d2e0dd)
+![image](https://github.com/user-attachments/assets/8c3e21ec-5579-4371-b5fd-404d97c9044d)
+
+The pod consists of 2 major parts: The **Motor section** (Drive), and the **Servo section** (Azimuthal/Swivel)
+The Motor section is the main view, consisting of the spur reduction, bevel reduction, and the "**Grease Trap**".
+The spur and bevel reductions allows for the motor to drive the wheel no matter the swivel position because the driven gear will spin around the driving gear without adding in additional motion to the wheel itself.
+![image](https://github.com/user-attachments/assets/45e13076-033a-428f-9599-7d5e5a4d1df8)
+The Grease Trap is a simple cover for the spur reduction, allowing me to use grease to keep the motion smooth at a high rpm while keeping out dust, and mounts with the same screws the forks do to minimize complexity. The use of heat set inserts makes for a secure fit while keeping the pod sleek and low-profile.
+![image](https://github.com/user-attachments/assets/f2c33ac0-868c-4c5d-8793-eb16b04d7c66)
+
+
+
+
+
+
