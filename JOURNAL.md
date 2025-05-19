@@ -1,4 +1,5 @@
 May 18th: Planning and Basic Design | **Time Spent this Session: 4 hours**
+
 I started my project by choosing constraints and the optimal materials / gear ratios for my project.
 
 I decided on utilizing 67102RS, MF126ZZ, and MF128ZZ bearings, and the use of DIN 965 and DIN 9647 (Hex socker countersink/button head) M3 and M4 screws, as all these parts are cheap and can be obtained off of Amazon and AliExpress.
