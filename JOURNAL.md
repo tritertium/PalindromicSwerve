@@ -21,7 +21,7 @@ Now I moved on to CAD, where I used Onshape to make a master-sketch, a full cons
 
 
 --------------------------------
-May 19th: Continued Design and changes | Time Spent this session: 2 hours
+May 19th: Continued Design and changes | **Time Spent this session: 2 hours**
 
 I've finished most of the parts for the pod and will start prototyping the wheel soon! :)
 
@@ -41,8 +41,13 @@ The spur and bevel reductions allows for the motor to drive the wheel no matter 
 The Grease Trap is a simple cover for the spur reduction, allowing me to use grease to keep the motion smooth at a high rpm while keeping out dust, and mounts with the same screws the forks do to minimize complexity. The use of heat set inserts makes for a secure fit while keeping the pod sleek and low-profile.
 ![image](https://github.com/user-attachments/assets/f2c33ac0-868c-4c5d-8793-eb16b04d7c66)
 
-
-
-
-
+--------------------------------------------------
+May 25th: Finalized Plan | **Time Spent this session: 4 hours**
+I've now finalized the geometry, using belts for the 2nd stage instead of gears to allow for an easy way to change gear ratio and to save costs. Addtionally, I can run a 25% thicker wheel, improving traction! (16mm vs 20mm)
+I've also cut down costs by a good bit by using 3d printed gears (mod 1.5) instead of expensive aluminum ones.
+![image](https://github.com/user-attachments/assets/f64d5e95-5569-4184-85aa-3ff498dcfed1)
+![image](https://github.com/user-attachments/assets/6ad358b7-a117-4b23-8ad4-e7274b13df6b)
+![image](https://github.com/user-attachments/assets/a050e4cb-f8a4-4dde-af1e-81c2c1276f4c)
+After a good bit of research, I've found all the parts I'll need. I plan to use modified DS3225SG servos for the rotation as they have good torque and speed, and I tested the modification with a same brand servo a few days ago (Though the firmware makes it slow after around 2s, may need to workaround that somehow)
+[Video](https://github.com/user-attachments/assets/cfb90ed9-acf9-4898-8cb2-bad8da67eb40)
 
