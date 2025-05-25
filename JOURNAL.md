@@ -42,7 +42,7 @@ The Grease Trap is a simple cover for the spur reduction, allowing me to use gre
 ![image](https://github.com/user-attachments/assets/f2c33ac0-868c-4c5d-8793-eb16b04d7c66)
 
 --------------------------------------------------
-May 25th: Finalized Plan | **Time Spent this session: 4 hours**
+May 24/25th: Finalized Plan | **Time Spent this session: 6 hours**
 I've now finalized the geometry, using belts for the 2nd stage instead of gears to allow for an easy way to change gear ratio and to save costs. Addtionally, I can run a 25% thicker wheel, improving traction! (16mm vs 20mm)
 I've also cut down costs by a good bit by using 3d printed gears (mod 1.5) instead of expensive aluminum ones.
 ![image](https://github.com/user-attachments/assets/f64d5e95-5569-4184-85aa-3ff498dcfed1)
