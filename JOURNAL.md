@@ -51,3 +51,22 @@ I've also cut down costs by a good bit by using 3d printed gears (mod 1.5) inste
 After a good bit of research, I've found all the parts I'll need. I plan to use modified DS3225SG servos for the rotation as they have good torque and speed, and I tested the modification with a same brand servo a few days ago (Though the firmware makes it slow after around 2s, may need to workaround that somehow)
 [Video](https://github.com/user-attachments/assets/cfb90ed9-acf9-4898-8cb2-bad8da67eb40)
 
+----------------------------------------------------
+May 25/26th: CAD of Pod and Wheel | **Time spent this session: 4 hours**
+I finished the pod and wheel!
+The pod is comrpised of many pulleys and 3d printed parts, along with the wheel.
+![image](https://github.com/user-attachments/assets/15f35c81-26a6-4d60-84dd-92cfedf942a5)
+![image](https://github.com/user-attachments/assets/e410fe10-0e0a-401c-a179-5ef4dc4d6ce3)
+
+Having a mastersketch really helped here, since I just derived in the construction geoemtry and added what was needed. Most of the mounting uses m4 into a threaded shaft or M3 into ruthex inserts, making sure I keep the whole project robust while mainly being 3d printed.
+![image](https://github.com/user-attachments/assets/71e3b4b4-121d-4368-a0a0-5bc7049c0cfd)
+
+The wheel will be molded out of 60a polyurethane, this is my favorite part of making swerve as I can make a really grippy wheel with just a 2 part mix :).
+![image](https://github.com/user-attachments/assets/ef01eb55-ebcf-4246-84f5-5d25c6e608dc)
+
+That's all the cadding I did today, and I had to change alot of parts due to me messing up some dimensions, primarily the use of a 4mm shaft instead of 5mm, and the change of bearings from MF125ZZ to MF124ZZ.
+After some rough math, the cost for a single pod is only around 10$ or so, which is much better than ~60$ for most other swerve drives in FTC due to using 30$ bearings and 25$ bevel gears. I'm not too sure how well the mod 1.5 3dp bevel gears will work in this case, but we'll have to see.
+
+
+
+
