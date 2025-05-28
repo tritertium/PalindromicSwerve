@@ -1,3 +1,9 @@
+---
+title: "Palindromic Coaxial Swerve"
+author: "Justin Roebuck"
+description: "Coaxial swerve drive project tailored towards FTC"
+created_at: "2025-05-18"
+---
 May 18th: Planning and Basic Design | **Time Spent this Session: 4 hours**
 
 I started my project by choosing constraints and the optimal materials / gear ratios for my project.
@@ -66,6 +72,28 @@ The wheel will be molded out of 60a polyurethane, this is my favorite part of ma
 
 That's all the cadding I did today, and I had to change alot of parts due to me messing up some dimensions, primarily the use of a 4mm shaft instead of 5mm, and the change of bearings from MF125ZZ to MF124ZZ.
 After some rough math, the cost for a single pod is only around 10$ or so, which is much better than ~60$ for most other swerve drives in FTC due to using 30$ bearings and 25$ bevel gears. I'm not too sure how well the mod 1.5 3dp bevel gears will work in this case, but we'll have to see.
+
+-----------------------------------------------------
+May 26th/27th: Finished CAD | **Time spent this session: 12 hours**
+I spent a TON of time working, but I finally finished the cad!
+Each Module uses 6mm 6061 aluminum and 3mm polycarbonate to ensure affordability but strength, and they connect easily with goBILDA u-channels. The use of tapped holes reduces parts since I now only need 12 nuts for the entire drivetrain instead of more than 50. (PS: I changed the color scheme of the pod)
+![image](https://github.com/user-attachments/assets/bd4c13cd-e3c0-4338-a07d-f0389f1463a8)
+
+I'm using an external encoder to track the servo rotation, a simple as5600-ASOM hooked up to 3pin analog, which I made in KiCAD!
+![image](https://github.com/user-attachments/assets/e2381b3a-fb86-433d-b29e-b170ebfbbbc8)
+![image](https://github.com/user-attachments/assets/944e7fe1-1138-45bf-be49-8125b4030763)
+![image](https://github.com/user-attachments/assets/52324119-5fc6-4984-80ad-e1bfa2dd1837)
+
+The control board I'm using only has 2 analog ports though, so I also made a joiner board!
+![image](https://github.com/user-attachments/assets/505c14f6-694e-46ad-b6b0-73bc3c3df374)
+
+The final drivetrain is only 296x300mm, and weighs just around 4kg (8.8 lb).
+![image](https://github.com/user-attachments/assets/c3fb0eaa-5537-49df-8cd3-6862eade02cf)
+
+The placement of the u-channels also for me to easily change the dimensions of the drivetrain by removing some screws and changing out the middle plates, making it accessible for many teams. Additionally, the use of the goBILDA pinpoint IMU allows for high accuracy rotation and movement.
+
+
+
 
 
 
