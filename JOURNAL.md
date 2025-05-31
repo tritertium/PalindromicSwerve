@@ -92,6 +92,26 @@ The final drivetrain is only 296x300mm, and weighs just around 4kg (8.8 lb).
 
 The placement of the u-channels also for me to easily change the dimensions of the drivetrain by removing some screws and changing out the middle plates, making it accessible for many teams. Additionally, the use of the goBILDA pinpoint IMU allows for high accuracy rotation and movement.
 
+---------------------------------------------------------
+May 30th/31st: Not finished yet | **Time spent this session: **4 hours**
+I found some major flaws in my design (oops!), and made some quick fixes. First, it would require WAY too many tools to machine the bottom pods, as you would need a bandsaw, drill press, and a bunch of drill bits. I decided to make the bottom a single 300x300x6mm sheet of aluminum, so you only need a drill press + amgle grinder, with a couple of drill bits. This allow makes it so I don't need to spend around 30$ on structure parts to join it together, saving money but making it non-modular. Additonally, I save another 20 not having to buy any polycarbonate, and instead just using 4mm PLA for the top part. With a few changes to the mastersketch, I was able to quickly modify everything!
+![image](https://github.com/user-attachments/assets/899b1fa4-5a46-47ea-b59b-d11edf171349)
+![image](https://github.com/user-attachments/assets/a08bdaa5-ed73-4dcd-8c66-55f06b0790f0)
+
+I changed the analog encoder to run on 5v instead of 3.3v, since the control hub already supports 5, and the 3.3v mode requires more parts.
+![image](https://github.com/user-attachments/assets/96173116-f4da-4458-a8ac-ae1c4a504d8f)
+
+
+Addtionally, I standardized everything to connect with M4X10, M3X8, and M3X25 button head screws, versus the ~9 different types I had before.
+This is the hopefully finished design, coming in at 4.4kg (9.7 lbs).
+![image](https://github.com/user-attachments/assets/beb704df-ff51-4ce9-8f00-c9fc73e7199f)
+
+
+
+
+
+
+
 
 
 
