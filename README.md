@@ -1,6 +1,6 @@
 # Palindromic Coaxial Swerve
 **What is it?**: A coaxial swerve drivetrain, combining the speed of traction wheels with the holonomic movement of mecanum wheels by physically swiveling the wheel with a servo.
-**What makes PCS Unique?**: Palindromic Coaxial Swerve revolves around FIRST Tech Challenge (FTC) hardware, and only requires 400$ of new parts for teams to build.
+**What makes PCS Unique?**: Palindromic Coaxial Swerve revolves around FIRST Tech Challenge (FTC) hardware, and only requires 500$ of new parts for teams to build.
 **Why use swerve?**: Swerve drive, when done right, allows for a significant boost in traction and speed compared to mecanum wheels, allowing for high power movement and pushing for many applications such as battlebots, FTC, and more.
 
 ![aasdasfgvaSGASGGAS](https://github.com/user-attachments/assets/db45992e-7b7a-4ab0-a434-86563c9dc0f4)
