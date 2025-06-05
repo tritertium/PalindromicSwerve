@@ -34,4 +34,5 @@ Brushless Servos: Swivels each Pod
 
 **Custom Encoders**: The use of external encoders increases reliability and precision.
 
-![image](https://github.com/user-attachments/assets/79dcbb91-9b6a-4ea5-a4f1-49bb0331f890)
+![image](https://github.com/user-attachments/assets/3fcfffa1-cf50-4f25-93c7-a2f341550b80)
+
