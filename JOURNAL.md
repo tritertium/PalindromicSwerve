@@ -68,7 +68,7 @@ After a good bit of research, I've found all the parts I'll need. I plan to use 
 
 
 ----------------------------------------------------
-May 25/26th: CAD of Pod and Wheel | **Time spent this session: 4 hours**
+## May 25/26th: CAD of Pod and Wheel | **Time spent this session: 4 hours**
 
 I finished the pod and wheel!
 The pod is comrpised of many pulleys and 3d printed parts, along with the wheel.
