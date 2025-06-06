@@ -5,7 +5,7 @@ description: "Coaxial swerve drive project tailored towards FTC"
 created_at: "2025-05-18"
 Total Time spent: 32 hours
 ---
-## May 18th: Planning and Basic Design | **Time Spent this Session: 4 hours**
+## May 18th: Planning and Basic Design | Time Spent this Session: 4 hours
 
 I started my project by choosing constraints and the optimal materials / gear ratios for my project.
 
@@ -30,7 +30,7 @@ Now I moved on to CAD, where I used Onshape to make a master-sketch, a full cons
 
 
 --------------------------------
-## May 19th: Continued Design and changes | **Time Spent this session: 2 hours**
+## May 19th: Continued Design and changes | Time Spent this session: 2 hours
 
 I've finished most of the parts for the pod and will start prototyping the wheel soon! :)
 
@@ -68,7 +68,7 @@ After a good bit of research, I've found all the parts I'll need. I plan to use 
 
 
 ----------------------------------------------------
-## May 25/26th: CAD of Pod and Wheel | **Time spent this session: 4 hours**
+## May 25/26th: CAD of Pod and Wheel | Time spent this session: 4 hours
 
 I finished the pod and wheel!
 The pod is comrpised of many pulleys and 3d printed parts, along with the wheel.
@@ -88,7 +88,7 @@ That's all the cadding I did today, and I had to change alot of parts due to me 
 After some rough math, the cost for a single pod is only around 10$ or so, which is much better than ~60$ for most other swerve drives in FTC due to using 30$ bearings and 25$ bevel gears. I'm not too sure how well the mod 1.5 3dp bevel gears will work in this case, but we'll have to see.
 
 -----------------------------------------------------
-## May 26th/27th: Finished CAD | **Time spent this session: 12 hours**
+## May 26th/27th: Finished CAD | Time spent this session: 12 hours
 
 I spent a TON of time working, but I finally finished the cad!
 Each Module uses 6mm 6061 aluminum and 3mm polycarbonate to ensure affordability but strength, and they connect easily with goBILDA u-channels. The use of tapped holes reduces parts since I now only need 12 nuts for the entire drivetrain instead of more than 50. (PS: I changed the color scheme of the pod)
@@ -108,7 +108,7 @@ The final drivetrain is only 296x300mm, and weighs just around 4kg (8.8 lb).
 The placement of the u-channels also for me to easily change the dimensions of the drivetrain by removing some screws and changing out the middle plates, making it accessible for many teams. Additionally, the use of the goBILDA pinpoint IMU allows for high accuracy rotation and movement.
 
 ---------------------------------------------------------
-## May 30th/31st: Not finished yet | **Time spent this session: **4 hours**
+## May 30th/31st: Not finished yet | Time spent this session: 4 hours
 
 I found some major flaws in my design (oops!), and made some quick fixes. First, it would require WAY too many tools to machine the bottom pods, as you would need a bandsaw, drill press, and a bunch of drill bits. I decided to make the bottom a single 300x300x6mm sheet of aluminum, so you only need a drill press + amgle grinder, with a couple of drill bits. This allow makes it so I don't need to spend around 30$ on structure parts to join it together, saving money but making it non-modular. Additonally, I save another 20 not having to buy any polycarbonate, and instead just using 4mm PLA for the top part. With a few changes to the mastersketch, I was able to quickly modify everything!
 
