@@ -3,7 +3,7 @@ title: "Palindromic Coaxial Swerve"
 author: "Justin Roebuck"
 description: "Coaxial swerve drive project tailored towards FTC"
 created_at: "2025-05-18"
-Total Time spent: 32 hours
+Total Time spent: 33 hours
 ---
 ## May 18th: Planning and Basic Design | Time Spent this Session: 4 hours
 
@@ -123,6 +123,17 @@ Addtionally, I standardized everything to connect with M4X10, M3X8, and M3X25 bu
 This is the hopefully finished design, coming in at 4.4kg (9.7 lbs).
 ![image](https://github.com/user-attachments/assets/beb704df-ff51-4ce9-8f00-c9fc73e7199f)
 
+## June 10th: Final Revisions | Time spent this session: 1 hour
+
+I got denied for my submission due to cost (430$ of parts not owned), so I've cut down a lot to bring the total down to just 320$ of parts not owned, and the grand total is now under 1000!
+
+I removed the custom as5600 encoder due to needing a ton of parts and costs, and instead replaced it with COTS mt6701, in which ill drill the holes out to 3mm (originally 2.5mm). I'm still keeping the JST Joiner as I can make 2 for 16$ and have leftover PCBs (PCBWAY minimum order is 5 :/) instead of spending 25$ for just 2 online.
+
+In terms of materials, I'm now using 12"x12"x.236" (6mm) polycarbonate, as it's a good bit cheaper. Additionally, I found servos that save me 70$ overall! Also also, I don't need the Pinpoint IMU, as the control hub as a built-in imu, saving 60$ to the grand total.
+
+The (hopefully actually final this time) robot is 3.7kg, or 7.5 pounds
+
+![image](https://github.com/user-attachments/assets/02a19bec-fc10-42c5-8042-c38e3a1f5124)
 
 
 
